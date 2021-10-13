@@ -21,6 +21,7 @@
     "Bulma"
   ],
   "dependencies": {
-    "browser-sync": "^2.27.5"
+    "browser-sync": "^2.27.5",
+    "bulma": "^0.9.3"
   }
 }
